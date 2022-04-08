@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react_native_app",
-    "slug": "react_native_app",
+    "name": "NFTMarket",
+    "slug": "NFTMarket",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,7 +25,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "versionCode": 1,
-      "package": "com.starnorh.react_native_app"
+      "package": "com.starnorh.nft.market"
     },
     "web": {
       "favicon": "./assets/favicon.png"
